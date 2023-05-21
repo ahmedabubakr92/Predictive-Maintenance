@@ -1,5 +1,7 @@
 # Predictive Maintenance - Multi-Label & Multi-Class Classifications
 
+The objective of the project is to provide a model that is capable of classifying if there's a fault in a device and afterwards classify the category of the failure that has occurred. 
+
 The process of the project was as follows:
 - I've started by explaining what is maintenance and its types
 - Examples of Predictive Maintenance and its benefits
